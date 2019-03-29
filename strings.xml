@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Change</string>
+    <string name="from_dollars">FROM DOLLARS :</string>
+    <string name="to_id">TO :</string>
+    <string name="amount_id">Enter Amount in Dollars</string>
+    <string-array name="currencies">
+        <item>Japanese Yen</item>
+        <item>Chinese Yuan</item>
+        <item>Singapore Dollar</item>
+        <item>South Korean Won</item>
+        <item>Argentine Peso</item>
+    </string-array>
+    <string name="convert_id">CONVERT</string>
+    <string name="Amount_id">AMOUNT :</string>
+</resources>
